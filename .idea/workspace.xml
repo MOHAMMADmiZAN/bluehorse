@@ -7,7 +7,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XqIvyee3bAX3BwZ9JjKFvH2pwZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -47,7 +57,7 @@
       <updated>1581767433322</updated>
       <workItem from="1581767437167" duration="30000" />
       <workItem from="1581767538164" duration="3245000" />
-      <workItem from="1581880134241" duration="32070000" />
+      <workItem from="1581880134241" duration="32644000" />
     </task>
     <servers />
   </component>
@@ -59,5 +69,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="640" y="262" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581767453924" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1581964526324">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1581964526324" />
   </component>
 </project>
