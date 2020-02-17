@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d1b7c40-92b3-42d8-91d3-67a4f2f5a063" name="Default Changelist" comment="" />
+    <list default="true" id="6d1b7c40-92b3-42d8-91d3-67a4f2f5a063" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,21 +61,44 @@
       <updated>1581767433322</updated>
       <workItem from="1581767437167" duration="30000" />
       <workItem from="1581767538164" duration="3245000" />
-      <workItem from="1581880134241" duration="32644000" />
+      <workItem from="1581880134241" duration="33343000" />
     </task>
+    <task id="LOCAL-00001" summary="self">
+      <created>1581964585404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581964585404</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="self" />
+    <option name="LAST_COMMIT_MESSAGE" value="self" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="640" y="262" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581767453924">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="640" y="262" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581767453924" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1581964526324">
+    <state x="584" y="38" key="CommitChangelistDialog2" timestamp="1581964584703">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1581964526324" />
+    <state x="584" y="38" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1581964584703" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1581965360964">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1581965360964" />
   </component>
 </project>
